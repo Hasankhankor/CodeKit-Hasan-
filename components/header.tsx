@@ -22,7 +22,7 @@ export const Header = () => {
         <div className="absolute left-0 flex items-center h-full">
           <img
             className="w-48 h-auto lg:w-64"
-            src="https://ik.imagekit.io/os33grffu/Black%20And%20White%20Modern%20Typographic%20Simple%20Virus%20Apparel%20Logo%20(2).png?updatedAt=1723742433785"
+            src="https://ik.imagekit.io/os33grffu/Black_And_White_Modern_Typographic_Simple_Virus_Apparel_Logo__2_-removebg-preview.png?updatedAt=1723746238362"
             alt="Logo"
           />
         </div>
