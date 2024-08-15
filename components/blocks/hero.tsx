@@ -28,7 +28,7 @@ export const Hero = () => (
 
         <div className="flex flex-row gap-3">
           <Button size="lg" className="gap-2 gradient-button-outline" variant="outline">
-            See all blocks <MoveDown className="w-4 h-4" />
+            See all Components<MoveDown className="w-4 h-4" />
           </Button>
         </div>
 
