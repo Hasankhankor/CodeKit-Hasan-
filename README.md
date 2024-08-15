@@ -8,9 +8,9 @@ You can use shadcn [Themes](https://ui.shadcn.com/themes) to customize the styli
 
 It works for both dark- and light mode. You can find installation guide to how to toggle and enable the different modes here on shadcn [Dark mode](https://ui.shadcn.com/docs/dark-mode).
 
-## Blocks
+## Components
 
-Go to /blocks to find the block you need and simply copy/paste it into your project. Then see which dependencies it has to shadcn-ui, and install them.
+Go to /Components to find the block you need and simply copy/paste it into your project. Then see which dependencies it has to shadcn-ui, and install them.
 
 Here is a list of available blocks:
 
